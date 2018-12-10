@@ -42,4 +42,4 @@ ViewPermissions: Displays users and their permissions on each database
 4.	Execute stored procedure
 
 #### Rollback: 
-1.	DROP PROCEDURE <stored procedure name>;  
+1.	DROP PROCEDURE [stored procedure name];  
